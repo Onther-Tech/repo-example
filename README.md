@@ -1,9 +1,9 @@
 # Repository Info
 
-Project Name : Sample Project
-Project Owner : Kevin
-Project Maintainer : Kevin
-Project Reviewer : Kevin
+* Project Name : Sample Project
+* Project Owner : Kevin
+* Project Maintainer : Kevin
+* Project Reviewer : Kevin
 
 # Contents
 
